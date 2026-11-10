@@ -1,1 +1,0 @@
-# azure_oidc_test
